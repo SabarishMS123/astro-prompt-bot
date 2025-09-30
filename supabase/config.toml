@@ -1,0 +1,4 @@
+project_id = "bvvebbyiaefckrzvwyci"
+
+[functions.analyze-satellite]
+verify_jwt = false
