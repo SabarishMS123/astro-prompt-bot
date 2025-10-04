@@ -16,5 +16,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-AI model: Gemini 2.5 flash
+
 
